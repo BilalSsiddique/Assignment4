@@ -1,0 +1,78 @@
+
+
+.bilboard td{
+    padding:15px;
+    padding-left: 0px;
+    font-weight: 600;
+    
+}
+#button{
+    border-radius: 2%;
+    padding:5px 15px;
+    
+    background: transparent;
+    border-color:linear-gradient(45deg, rgb(119, 0, 255), rgba(14, 14, 12, 0.904));
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    width: 105px;
+    text-shadow: 15px 5px 15px #000000;
+    color: darkgray;
+    margin-left:99px;
+    margin-top:30px
+    
+    
+}
+
+
+
+.bilboard input{
+    border-radius: 2%;
+    padding:5px;
+    background-color: black;
+    background: transparent;
+    /* border-color:linear-gradient(0deg, rgb(119, 0, 255), rgba(14, 14, 12, 0.904)); */
+    font-family: pacifico;
+    width: 320px;
+    text-align: center;
+    font-size: 20px;
+    padding-right: 20px;
+    margin-right: 135px;
+    border-width: 5px;
+    color: rebeccapurple
+    
+}
+
+
+::placeholder{
+    color: rebeccapurple !important;
+    font-size: 23px;
+    
+}
+
+
+
+.centeredd {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+.mine{
+	font-size: 18px !important;
+	color: lightgray !important;
+	text-shadow: 1px 5px 10px #000000 !important;
+	font-weight: 500 !important;
+	
+}
+.log{
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    font-family: pacifico;
+    color: lightgray;
+    text-shadow: 1px 5px 10px #000000 !important;
+    margin-bottom: 50px;
+}
